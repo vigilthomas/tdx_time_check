@@ -31,3 +31,18 @@ First, make sure `pip` is installed:
 
 ```bash
 sudo apt install python3-pip
+```
+
+##Example Run 🖥️
+``` tdxtimecheck ```
+
+Enter worked time so far (HH, HH:MM, HH:MM:SS): 05:10  
+Enter target hours :8
+
+Target hours is 8.0 hours
+
+Worked Hours: 5:10:00
+You need to work for: 2:50:00
+
+Current Time: 16-09-2025, 12:09 PM
+Finish Time: 16-09-2025, 03:00 PM
