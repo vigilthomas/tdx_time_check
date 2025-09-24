@@ -1,4 +1,4 @@
-# TdxTimeCheck ⏱️
+# TdxTimeCheck
 
 ![PyPI](https://img.shields.io/pypi/v/tdxtimecheck?color=blue) ![Python](https://img.shields.io/badge/python-3.6%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -7,7 +7,7 @@ It’s fast, flexible, and perfect for anyone who wants a quick way to manage th
 
 ---
 
-## Why TdxTimeCheck? 🤔
+## Why TdxTimeCheck?
 
 - ✅ **Easy to Use** – Just run it in your terminal, no setup hassle.  
 - ⏱️ **Flexible Input** – Supports `HH`, `HH:MM`, and `HH:MM:SS` formats.  
@@ -34,7 +34,7 @@ sudo apt install python3-pip
 ```
 
 ##Example Run 🖥️
-```text
+```
 $tdxtimecheck
  
 Enter worked time so far (HH, HH:MM, HH:MM:SS): 05:10  
