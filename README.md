@@ -33,9 +33,26 @@ First, make sure `pip` is installed:
 sudo apt install python3-pip
 ```
 
-##Example Run 🖥️
+Then install TdxTimeCheck:
+```bash
+sudo pip install tdxtimecheck
 ```
-$tdxtimecheck
+
+## Usage 🚀
+Run the tool:
+```bash
+tdxtimecheck
+```
+
+It will ask for:
+
+Worked time so far → HH, HH:MM, or HH:MM:SS
+Target hours → e.g., 8
+
+
+## Example Run 🖥️
+```
+$ tdxtimecheck
  
 Enter worked time so far (HH, HH:MM, HH:MM:SS): 05:10  
 Enter target hours :8
