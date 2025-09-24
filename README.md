@@ -47,6 +47,7 @@ tdxtimecheck
 It will ask for:
 
 Worked time so far → HH, HH:MM, or HH:MM:SS
+
 Target hours → e.g., 8
 
 
